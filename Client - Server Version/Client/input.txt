@@ -1,0 +1,16 @@
+Toyota
+Supra
+3
+25000
+color
+3
+red,10.5
+blue,20
+orange,30
+transmission
+2
+auto,20
+manual,-10
+sport
+1
+yes, 0
